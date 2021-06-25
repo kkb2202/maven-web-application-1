@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-Release</version>
 	
 	<name>maven-web-application</name>
 
@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.61.113:8081/repository/paytm-Release/</url>
+	      <name>Kiran Release Nexus Repository</name>
+	      <url>http://18.207.168.41:8081/repository/Maven_Wallmart_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>VK Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.61.113:8081/repository/paytm-Snapshot/</url>
+	      <name>Kiran Snapshot Nexus Repository </name>
+	      <url>http://18.207.168.41:8081/repository/Maven_Wallmart_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
