@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.234.143.176:9000/</sonar.host.url>
+		<sonar.host.url>http://54.226.55.112:9000/</sonar.host.url>
 		<sonar.login>84dac9aa3cd0cfb86d01e84dd9a82f1f865b6bab</sonar.login>
 		<!-- <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> -->
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Kiran Release Nexus Repository</name>
-	      <url>http://18.207.168.41:8081/repository/Maven_Wallmart_Release/</url>
+	      <url>http://34.230.17.142:8081/repository/Maven_Wallmart_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Kiran Snapshot Nexus Repository </name>
-	      <url>http://18.207.168.41:8081/repository/Maven_Wallmart_Snapshot/</url>
+	      <url>http://34.230.17.142:8081/repository/Maven_Wallmart_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
